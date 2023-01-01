@@ -1,6 +1,5 @@
 google-api-python-client
 python-telegram-bot
 requests
-
 flask_restful
-sk==2.2.2
+flask==2.2.2
